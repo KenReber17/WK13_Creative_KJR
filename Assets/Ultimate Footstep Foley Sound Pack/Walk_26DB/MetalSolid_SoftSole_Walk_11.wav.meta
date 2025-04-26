@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: f158c077655b2f84db5c4a88f4d6d37a
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304884
+  packageName: Ultimate Footstep Foley Sound Pack
+  packageVersion: 1.0
+  assetPath: Assets/Ultimate Footstep Foley Sound Pack/Walk_26DB/MetalSolid_SoftSole_Walk_11.wav
+  uploadId: 715959

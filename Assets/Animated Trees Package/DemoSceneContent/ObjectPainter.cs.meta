@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1188adf83b8db4645b72dc96fefa0e33
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 169445
+  packageName: Animated Trees Package
+  packageVersion: 1.03
+  assetPath: Assets/Animated Trees Package/DemoSceneContent/ObjectPainter.cs
+  uploadId: 736443

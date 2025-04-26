@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b9e449a1a47fdbd448e132232d1f3c94
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 169445
+  packageName: Animated Trees Package
+  packageVersion: 1.03
+  assetPath: Assets/Animated Trees Package/Shaders/StandardDoubleSided.shader
+  uploadId: 736443
